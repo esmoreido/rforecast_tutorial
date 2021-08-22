@@ -1,0 +1,9 @@
+name: "Гидрологические прогнозы с использованием языка R"
+output_dir: "."
+navbar:
+  title: "Гидрологические прогнозы с использованием языка R"
+  left:
+    - text: "Введение"
+      href: index.html
+    - text: "О курсе"
+      href: about.html
